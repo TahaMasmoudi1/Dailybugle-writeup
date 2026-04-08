@@ -1,0 +1,6 @@
+cat user.txt
+27a260fe3cba712cfdedb1c86d80442e
+
+cat /root/root.txt
+eec3d53292b1821868266858d7fa6f79
+
